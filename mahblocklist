@@ -1,6 +1,6 @@
 # This is a test on adding domains to my blocklist
 
-0.0.0.0 www.orf.at
+0.0.0.0 orf.at
 0.0.0.0 www.bullads.net
 0.0.0.0 fr.app.chat.global.xiaomi.net
 0.0.0.0 resolver.msg.global.xiaomi.net
